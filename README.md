@@ -6,6 +6,7 @@ README
 前台交易和后台簿记中的
 
 - 数据模型 Modeling
+- 交易 Trading
 - 簿记 Booking
 - 计价 Pricing
 
@@ -43,7 +44,13 @@ Trade 是成功成交后的 Order。
 
 ### Order 和 Trade 的关系
 
-### Instrument
+### 交易工具 Instrument
+
+## 交易 Trading
+
+### 订单路由 Order Routing
+
+### 订单执行 Order Execution
 
 ## 簿记 Booking
 
@@ -57,7 +64,7 @@ Trade 是成功成交后的 Order。
 
 ## 计价 Pricing
 
-### Profit and Loss
+### PnL 计算 PnL Calculation
 
 - Open PnL
 - PnL
@@ -66,3 +73,8 @@ Trade 是成功成交后的 Order。
 ### 市场信息 Market Data
 
 ### 产品信息 Product Data
+
+## 其他 Others
+
+### Trading Calendar
+### Valuation Report
