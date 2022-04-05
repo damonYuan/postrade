@@ -33,6 +33,20 @@ Order 是客户希望通过下新的订单来生成一条合约对某种产品�
 
 交易员收到该订单后，明白该客户想要以限价单全部成交或取消订单的方式交易 1000 股茅台，并且如果交易成功后将股票平均分配到两个子账户中。
 
+#### Order Router
+
+- High Touch
+- Low Touch
+- No Touch
+- DMA
+
+#### Execution Engine
+
+
+#### Order Matching (Exchange)
+
+
+
 ### 什么是 Trade？
 
 Trade 是成功成交后的 Order。
